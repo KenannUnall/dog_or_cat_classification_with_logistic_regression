@@ -72,13 +72,6 @@ The logistic regression model is used for binary classification. The following s
 
 The accuracy of the model is printed after training. Both training and test accuracies are displayed as percentages.
 
-## Example
-
-```python
-Train Accuracy: 90.45%
-Test Accuracy: 88.12%
-```
-
 ## Conclusion
 
 This project demonstrates the application of logistic regression to image classification. Despite its simplicity, the logistic regression model can perform reasonably well on this dataset, especially with a well-preprocessed input.
